@@ -1,1 +1,2 @@
 # Edu
+theme : minima
